@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/read-more-read-less/static/css/main.c9070e64.css",
+    "main.js": "/read-more-read-less/static/js/main.f5e47e64.js",
+    "index.html": "/read-more-read-less/index.html",
+    "main.c9070e64.css.map": "/read-more-read-less/static/css/main.c9070e64.css.map",
+    "main.f5e47e64.js.map": "/read-more-read-less/static/js/main.f5e47e64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9070e64.css",
+    "static/js/main.f5e47e64.js"
+  ]
+}
